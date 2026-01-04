@@ -1,7 +1,7 @@
-```
+```markdown
 # 🚀 Tech Interview Prep
 
-My personal repository documenting solutions to Data Structures & Algorithms problems and System Design case studies. This repo serves as both a learning journal and quick reference guide. :contentReference[oaicite:0]{index=0}
+My personal repository documenting solutions to Data Structures & Algorithms problems and System Design case studies. This repo serves as both a learning journal and quick reference guide.
 
 ## 📊 Progress Tracker
 
@@ -12,14 +12,13 @@ My personal repository documenting solutions to Data Structures & Algorithms pro
 
 ### System Designs Completed: 0
 
-Last Updated: January 3, 2026
+**Last Updated:** January 3, 2026
 
 ---
 
 ## 🗂️ Repository Structure
 
-```
-
+```text
 tech-interview-prep/
 ├── dsa/
 │   └── arrays_and_hashing/
@@ -34,35 +33,38 @@ tech-interview-prep/
 │           └── valid-anagram.py
 └── README.md
 
-````
+```
 
 ---
 
 ## 🎯 Problems Solved
 
 ### Arrays & Hashing
-- ✅ [Contains Duplicate](dsa/arrays_and_hashing/contains-any-duplicate/contains-duplicate.md) - Easy
-- ✅ [Two Sum](dsa/arrays_and_hashing/two-sum/two-sum.md) - Easy
-- ✅ [Valid Anagram](dsa/arrays_and_hashing/valid-anagram/valid-anagram.md) - Easy
+
+* ✅ [Contains Duplicate](https://www.google.com/search?q=dsa/arrays_and_hashing/contains-any-duplicate/contains-duplicate.md) - Easy
+* ✅ [Two Sum](https://www.google.com/search?q=dsa/arrays_and_hashing/two-sum/two-sum.md) - Easy
+* ✅ [Valid Anagram](https://www.google.com/search?q=dsa/arrays_and_hashing/valid-anagram/valid-anagram.md) - Easy
 
 ### Coming Soon
-- Group Anagrams
-- Top K Frequent Elements
+
+* Group Anagrams
+* Top K Frequent Elements
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Git installed on your machine
-- Python 3.8+ (or Java JDK 11+, depending on your language)
-- A code editor (VS Code, PyCharm, IntelliJ, etc.)
+
+* Git installed on your machine
+* Python 3.8+ (or Java JDK 11+, depending on your language)
+* A code editor (VS Code, PyCharm, IntelliJ, etc.)
 
 ### Clone the Repository
 
 ```bash
 # Clone the repo
-git clone https://github.com/suleimanodetoro/tech-interview-prep.git
+git clone [https://github.com/suleimanodetoro/tech-interview-prep.git](https://github.com/suleimanodetoro/tech-interview-prep.git)
 
 # Navigate to the directory
 cd tech-interview-prep
@@ -73,7 +75,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # (Optional) Install any dependencies
 pip install -r requirements.txt  # if you have one
-````
+
+```
 
 ### Repository Structure
 
@@ -86,31 +89,35 @@ Once cloned, you'll see:
 ### How to Use This Repo
 
 1. **Browse by Topic**: Navigate to specific folders
+```bash
+cd dsa/arrays_and_hashing/
 
-   ```bash
-   cd dsa/arrays_and_hashing/
-   ```
+```
+
 
 2. **Read Solutions**: Each problem has a detailed `.md` file with:
+* Problem statement
+* Multiple approaches
+* Complexity analysis
+* Key learnings
 
-   * Problem statement
-   * Multiple approaches
-   * Complexity analysis
-   * Key learnings
 
 3. **Run Code**: Execute solutions directly:
+```bash
+python3 dsa/arrays_and_hashing/contains-any-duplicate/contains-duplicate.py
 
-   ```bash
-   python3 dsa/arrays_and_hashing/contains-any-duplicate/contains-duplicate.py
-   ```
+```
+
 
 4. **Add Your Own**: Follow the existing structure to add new solutions
+```bash
+mkdir -p dsa/arrays_and_hashing/two-sum
+touch dsa/arrays_and_hashing/two-sum/two-sum.md
+touch dsa/arrays_and_hashing/two-sum/two-sum.py
 
-   ```bash
-   mkdir -p dsa/arrays_and_hashing/two-sum
-   touch dsa/arrays_and_hashing/two-sum/two-sum.md
-   touch dsa/arrays_and_hashing/two-sum/two-sum.py
-   ```
+```
+
+
 
 ### Making Changes
 
@@ -126,6 +133,7 @@ git commit -m "Add: Two Sum solution with hash map approach"
 
 # Push to GitHub
 git push origin main
+
 ```
 
 ---
@@ -257,6 +265,7 @@ git checkout -b week-1-practice
 
 # Switch back to main
 git checkout main
+
 ```
 
 ---
@@ -302,4 +311,5 @@ Thanks to the following resources that have been invaluable in my preparation:
 **Current Streak:** 3 day 🔥
 
 ```
+
 ```

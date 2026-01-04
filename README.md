@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Tech Interview Prep
 
 My personal repository documenting solutions to Data Structures & Algorithms problems and System Design case studies. This repo serves as both a learning journal and quick reference guide.
@@ -309,7 +308,5 @@ Thanks to the following resources that have been invaluable in my preparation:
 
 **Last Updated:** January 3, 2026
 **Current Streak:** 3 day 🔥
-
-```
 
 ```

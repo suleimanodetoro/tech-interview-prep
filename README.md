@@ -4,14 +4,14 @@ My personal repository documenting solutions to Data Structures & Algorithms pro
 
 ## 📊 Progress Tracker
 
-### DSA Problems Solved: 3/150
+### DSA Problems Solved: 5/150
 - **Easy:** 3
-- **Medium:** 0
+- **Medium:** 2
 - **Hard:** 0
 
 ### System Designs Completed: 0
 
-**Last Updated:** January 3, 2026
+**Last Updated:** January 4, 2026
 
 ---
 
@@ -30,6 +30,7 @@ tech-interview-prep/
 │       └── valid-anagram/
 │           ├── valid-anagram.md
 │           └── valid-anagram.py
+...etc...
 └── README.md
 
 ```
@@ -40,14 +41,15 @@ tech-interview-prep/
 
 ### Arrays & Hashing
 
-* ✅ [Contains Duplicate](https://www.google.com/search?q=dsa/arrays_and_hashing/contains-any-duplicate/contains-duplicate.md) - Easy
-* ✅ [Two Sum](https://www.google.com/search?q=dsa/arrays_and_hashing/two-sum/two-sum.md) - Easy
-* ✅ [Valid Anagram](https://www.google.com/search?q=dsa/arrays_and_hashing/valid-anagram/valid-anagram.md) - Easy
+### Arrays & Hashing
 
-### Coming Soon
+* ✅ [Contains Duplicate](dsa/arrays_and_hashing/contains-any-duplicate/contains-duplicate.md) - Easy
+* ✅ [Two Sum](dsa/arrays_and_hashing/two-sum/two-sum.md) - Easy
+* ✅ [Valid Anagram](dsa/arrays_and_hashing/valid-anagram/valid-anagram.md) - Easy
+* ✅ [Group Anagrams](dsa/arrays_and_hashing/group-anagrams/group-anagrams.md) - Medium
+* ✅ [Top K Frequent Elements](dsa/arrays_and_hashing/top-k-frequent-elements/top-k-frequent-elements.md) - Medium
 
-* Group Anagrams
-* Top K Frequent Elements
+
 
 ---
 
@@ -225,7 +227,7 @@ Key patterns I'm learning:
 
 ### Planned Topics
 
-* ✅ Arrays & Hashing (3 problems)
+* ✅ Arrays & Hashing (5 problems)
 * ⏳ Two Pointers
 * ⏳ Sliding Window
 * ⏳ Stack
@@ -306,7 +308,7 @@ Thanks to the following resources that have been invaluable in my preparation:
 
 ---
 
-**Last Updated:** January 3, 2026
-**Current Streak:** 3 day 🔥
+**Last Updated:** January 4, 2026
+**Current Streak:** 4 days 🔥
 
 ```

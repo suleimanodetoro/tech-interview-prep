@@ -22,15 +22,10 @@ tech-interview-prep/
 ├── dsa/
 │   └── arrays_and_hashing/
 │       ├── contains-any-duplicate/
-│       │   ├── contains-duplicate.md
-│       │   └── contains-duplicate.py
 │       ├── two-sum/
-│       │   ├── two-sum.md
-│       │   └── two-sum.py
-│       └── valid-anagram/
-│           ├── valid-anagram.md
-│           └── valid-anagram.py
-...etc...
+│       ├── valid-anagram/
+│       ├── group-anagrams/
+│       └── top-k-frequent-elements/
 └── README.md
 
 ```
@@ -39,7 +34,6 @@ tech-interview-prep/
 
 ## 🎯 Problems Solved
 
-### Arrays & Hashing
 
 ### Arrays & Hashing
 

@@ -11,7 +11,7 @@ My personal repository documenting solutions to Data Structures & Algorithms pro
 
 ### System Designs Completed: 0
 
-**Last Updated:** January 4, 2026
+**Last Updated:** January 6, 2026
 
 ---
 
@@ -302,7 +302,7 @@ Thanks to the following resources that have been invaluable in my preparation:
 
 ---
 
-**Last Updated:** January 4, 2026
-**Current Streak:** 5 days 🔥
+**Last Updated:** January 6, 2026
+**Current Streak:** 6 days 🔥
 
 ```

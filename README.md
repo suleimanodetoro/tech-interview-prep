@@ -4,14 +4,14 @@ My personal repository documenting solutions to Data Structures & Algorithms pro
 
 ## 📊 Progress Tracker
 
-### DSA Problems Solved: 5/150
+### DSA Problems Solved: 6/150
 - **Easy:** 3
-- **Medium:** 2
+- **Medium:** 3
 - **Hard:** 0
 
 ### System Designs Completed: 0
 
-**Last Updated:** January 6, 2026
+**Last Updated:** January 7, 2026
 
 ---
 
@@ -302,7 +302,7 @@ Thanks to the following resources that have been invaluable in my preparation:
 
 ---
 
-**Last Updated:** January 6, 2026
-**Current Streak:** 6 days 🔥
+**Last Updated:** January 7, 2026
+**Current Streak:** 7 days 🔥
 
 ```

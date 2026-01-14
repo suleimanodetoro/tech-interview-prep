@@ -1,4 +1,4 @@
-# Chapter 1 Continued: Data Models and Query Languages
+# Chapter 2 Continued: Data Models and Query Languages
 ## Study Notes - Data Models, Relational vs Document Databases
 
 > From "Designing Data-Intensive Applications" by Martin Kleppmann

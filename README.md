@@ -302,7 +302,7 @@ Thanks to the following resources that have been invaluable in my preparation:
 
 ---
 
-**Last Updated:** January 13, 2026
-**Current Streak:** 13 days 🔥
+**Last Updated:** January 14, 2026
+**Current Streak:** 14 days 🔥
 
 ```

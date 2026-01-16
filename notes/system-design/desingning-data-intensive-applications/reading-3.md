@@ -2,7 +2,7 @@
 ## Study Notes - Day 2 (Declarative Queries, MapReduce, and Graphs)
 
 > From "Designing Data-Intensive Applications" by Martin Kleppmann
-> **Date:** January 15, 2026
+> **Date:** January 14, 2026
 > **Topics:** Query languages, MapReduce, Graph databases
 
 ---
